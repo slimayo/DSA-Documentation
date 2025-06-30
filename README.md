@@ -42,3 +42,7 @@ Did it with the use of some calculated columns and the use of pivot table.
 ### Findings.
 
 The analysis results are summarized as follows:
+
+1. We know the satisfactory level of customer over our products.
+2. We get to know particular products we need to improve on through the rating and reviews from customer.
+3. 
