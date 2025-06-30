@@ -1,7 +1,7 @@
 # DSA_Capstone_Excel_Project
 Documentation of DSA Projects
 
-### Project Overview
+### Project Overview.
 
 This data analysis project aims to provide insights that can guide in product improvement, marketing strategies and customer engagement through given product analysis and customer review data.
 
@@ -34,3 +34,11 @@ EDA involved exploring the dataset answer some major questions such as:
 - What is the average actual price vs the discounted price by category?
 - Which products have the highest number of reviews? 
  And so on.....
+
+### Data Analysis.
+
+Did it with the use of some calculated columns and the use of pivot table.
+
+### Findings.
+
+The analysis results are summarized as follows:
