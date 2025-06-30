@@ -12,3 +12,13 @@ The primary dataset used for this analysis is the "Amazon case study.xlsx" file,
 ### Tools
 
 Excel 
+- [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0739cabe1905633c0ca7de41184262b6)
+
+### Data Cleaning/Preparation.
+
+In the initial data preparation phase, I performed the following tasks:
+
+1. Data loading and inspection.
+2. Handling missing values.
+3. Creating necessary columns through the provided data from the dataset.
+4. Data cleaning and formatting.
