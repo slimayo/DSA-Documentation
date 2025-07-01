@@ -39,6 +39,28 @@ EDA involved exploring the dataset answer some major questions such as:
 
 Did it with the use of some calculated columns and the use of pivot table.
 
+### Results.
+1. What is the average discount percentage by product category? Answer is on the Pivot table file attached
+2. How many products are listed under each category? Answer is on the Pivot table file attached
+3. What is the total number of reviews per category? Answer is on the Pivot table file attached
+4. Which products have the highest average ratings? Answer is on the Pivot table file attached
+5. What is the average actual price vs the discounted price by category? Answer is on the Pivot table file attached
+6. Which products have the highest number of reviews? Answer is on the Pivot table file attached
+7. How many products have a discount of 50% or more? Answer is on the Pivot table file attached
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 
+    4.0, etc.)? Answer is on the Pivot table file attached
+9. What is the total potential revenue (actual_price × rating_count) by category? Answer is on the Pivot table file attached
+10. What is the number of unique products per price range bucket (e.g., <₹200, 
+    ₹200–₹500, >₹500)? Answer is on the Pivot table file attached
+11. How does the rating relate to the level of discount? Answer is on the Pivot table file attached
+12. How many products have fewer than 1,000 reviews? Answer is 1464 Products.
+13. Which categories have products with the highest discounts? Electronics, Home & Kitchen and Computer & Accessories
+14. Identify the top 5 products in terms of rating and number of reviews combined. In terms of Rating, boAt, AmazonBasics,        Redmi, SanDisk, TP-Link are top 5 and boAt, Samsung, Fire-Boltt, AmazonBasics, Redmi are top 5 in terms of reviews.
+
+
+
+
+
 ### Findings.
 
 The analysis results are summarized as follows:
