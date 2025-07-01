@@ -57,10 +57,6 @@ Did it with the use of some calculated columns and the use of pivot table.
 13. Which categories have products with the highest discounts? Electronics, Home & Kitchen and Computer & Accessories
 14. Identify the top 5 products in terms of rating and number of reviews combined. In terms of Rating, boAt, AmazonBasics,        Redmi, SanDisk, TP-Link are top 5 and boAt, Samsung, Fire-Boltt, AmazonBasics, Redmi are top 5 in terms of reviews.
 
-
-
-
-
 ### Findings.
 
 The analysis results are summarized as follows:
