@@ -7,6 +7,11 @@ Documentation of DSA Projects
 - [Tool](#tool)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview.
 
