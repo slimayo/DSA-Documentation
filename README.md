@@ -2,9 +2,11 @@
 Documentation of DSA Projects
 
 ## Table of Contents
-- [Project Overview](Project-Overview)
-- [Data Source](Data-Source)
-- [Tool](Tool)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool](#tool)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ### Project Overview.
 
@@ -19,7 +21,7 @@ The primary dataset used for this analysis is the "Amazon case study.xlsx" file,
 Excel 
 - [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0739cabe1905633c0ca7de41184262b6)
 
-### Data Cleaning/Preparation.
+### Data Cleaning.
 
 In the initial data preparation phase, I performed the following tasks:
 
