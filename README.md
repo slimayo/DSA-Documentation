@@ -1,6 +1,11 @@
 # DSA_Capstone_Excel_Project
 Documentation of DSA Projects
 
+## Table of Contents
+- [Project Overview](Project-Overview)
+- [Data Source](Data-Source)
+- [Tool](Tool)
+
 ### Project Overview.
 
 This data analysis project aims to provide insights that can guide in product improvement, marketing strategies and customer engagement through given product analysis and customer review data.
@@ -66,3 +71,15 @@ The analysis results are summarized as follows:
 3. It shows how discount rate can affect product demand.
 4. We know which of our products move most.
 5. We discover which of our products are most likely to first sell out due to demand rate.
+
+### Recommendations.
+
+Based on the analysis, we recommend the following actions:
+
+- Invest more into marketing and promotions more on products in Electronics Category.
+- Give more discount on products in Toys & Games Category to encourage more people buying.
+
+### Limitations.
+
+- Had to split the category into 5 differrent columns so as to be able to arrive at having the real category name needed for    analysis
+- Had to count the reviews using comma as delimeter for each review.
