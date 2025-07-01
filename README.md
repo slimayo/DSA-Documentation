@@ -63,4 +63,6 @@ The analysis results are summarized as follows:
 
 1. We know the satisfactory level of customer over our products.
 2. We get to know particular products we need to improve on through the rating and reviews from customer.
-3. 
+3. It shows how discount rate can affect product demand.
+4. We know which of our products move most.
+5. We discover which of our products are most likely to first sell out due to demand rate.
