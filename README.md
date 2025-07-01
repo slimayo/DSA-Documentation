@@ -1,5 +1,5 @@
 # DSA_Capstone_Excel_Project
-Documentation of DSA Projects
+Documentation of DSA Excel Project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
