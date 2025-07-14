@@ -55,7 +55,10 @@ Did it with the use of some calculated columns and the use of pivot table.
 1. What is the average discount percentage by product category? Answer is on the Pivot table file attached
 2. How many products are listed under each category? Answer is on the Pivot table file attached
 3. What is the total number of reviews per category? Answer is on the Pivot table file attached
-4. Which products have the highest average ratings? Answer is on the Pivot table file attached
+4. Which products have the highest average ratings? REDTECH, Syncwire, Swiffer, Oratech, Instant, FIGMENT, Campfire, Multifunctional, VRPRIME, Melbon, Aquadpure, 10k, Zuvexa, Spigen, Sujata, Cafe, Fujifilm, Scarters, Gadgetronics, Noise_Colorfit, Goldmedal, Redragon, Homeistic, Seagate, Cuzor, SupCares, Kyosei, Aqua, !!1000, WANBO
+<img width="462" height="871" alt="image" src="https://github.com/user-attachments/assets/4e495e83-2dcb-4da8-9c3e-aa4b04f5ec8e" />
+
+
 5. What is the average actual price vs the discounted price by category? Answer is on the Pivot table file attached
 6. Which products have the highest number of reviews? Answer is on the Pivot table file attached
 7. How many products have a discount of 50% or more? Answer is on the Pivot table file attached
